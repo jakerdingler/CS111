@@ -1,4 +1,6 @@
 CS111
 =====
 
-Projects, Homeworks, and Practice Problems in Intro to Computer Science
+The Projects, Homeworks, and any extra practice I have done 
+in my Intro to Computer Science course 
+to display my classroom experience.
